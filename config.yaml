@@ -31,7 +31,7 @@ menu:
       weight: 4
 params:
   author: Fastbyte01
-  avatar: /images/me/avatar.jpeg
+  avatar: /images/me/1.png
   baidu_verification: ''
   bing_verification: ''
   cdn_url: ''
